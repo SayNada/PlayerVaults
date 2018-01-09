@@ -2,8 +2,8 @@ package com.drtshock.playervaults.translations;
 
 public enum Language {
     ENGLISH("english"),
-    BULGARIAN("english"),
-    DUTCH("english");
+    BULGARIAN("bulgarian"),
+    DUTCH("dutch");
     private String friendlyName;
 
     Language(String friendlyName) {
